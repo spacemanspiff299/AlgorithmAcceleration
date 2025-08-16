@@ -31,7 +31,7 @@ This module is designed to solve second-order linear ordinary differential equat
 1.  **Prerequisites**:
     *   NVIDIA GPU with CUDA support.
     *   CUDA Toolkit installed.
-    *   Python environment with the necessary packages (see `requirements.txt`).
+    *   Python environment with the necessary packages.
 
 2.  **Execution**:
     Run the Python script from the command line:
